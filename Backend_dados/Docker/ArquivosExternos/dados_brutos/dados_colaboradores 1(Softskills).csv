@@ -1,0 +1,81 @@
+﻿ID,Soft Skill 1,Soft Skill 2,Soft Skill 3,Soft Skill 4,Soft Skill 5
+1,Foco em resultados,Resiliência,Aprendizado contínuo,Colaboração,Capacidade de liderança
+2,Proatividade,Colaboração,Visão sistêmica,Aprendizado contínuo,Trabalho interdisciplinar
+3,Autonomia,Resiliência,Curiosidade,Gestão de prioridades,Responsabilidade
+4,Negociação,Gestão de prioridades,Capacidade de liderança,,
+5,Pensamento analítico,Adaptabilidade,Proatividade,Aprendizado contínuo,
+6,Trabalho interdisciplinar,Pensamento analítico,Gestão de prioridades,,
+7,Responsabilidade,Negociação,,,
+8,Gestão do tempo,Resolução de problemas,Foco em resultados,Capacidade de liderança,Inteligência emocional
+9,Gestão do tempo,Visão sistêmica,,,
+10,Habilidades de comunicação,Capacidade de liderança,Resiliência,,
+11,Negociação,Foco em resultados,Proatividade,Capacidade de liderança,
+12,Resolução de problemas,Autonomia,Dar e receber feedback,Habilidades de comunicação,Pensamento crítico
+13,Dar e receber feedback,Resolução de problemas,Visão sistêmica,,
+14,Habilidades de comunicação,Trabalho interdisciplinar,Proatividade,Criatividade,Capacidade de liderança
+15,Trabalho interdisciplinar,Adaptabilidade,Capacidade de liderança,Criatividade,Proatividade
+16,Resolução de problemas,Aprendizado contínuo,,,
+17,Dar e receber feedback,Colaboração,Trabalho interdisciplinar,,
+18,Resiliência,Gestão de prioridades,Atenção aos detalhes,,
+19,Foco em resultados,Trabalho interdisciplinar,,,
+20,Criatividade,Empatia,Ética profissional,Gestão de prioridades,Resolução de problemas
+21,Pensamento crítico,Pensamento analítico,Atenção aos detalhes,Resiliência,
+22,Gestão de prioridades,Trabalho interdisciplinar,Curiosidade,,
+23,Foco em resultados,Inteligência emocional,Aprendizado contínuo,Criatividade,
+24,Criatividade,Empatia,Negociação,Responsabilidade,Ética profissional
+25,Curiosidade,Negociação,Pensamento crítico,,
+26,Negociação,Ética profissional,,,
+27,Inteligência emocional,Curiosidade,Criatividade,Responsabilidade,
+28,Colaboração,Habilidades de comunicação,Curiosidade,,
+29,Gestão do tempo,Criatividade,Ética profissional,Resolução de problemas,Visão sistêmica
+30,Proatividade,Resiliência,Empatia,,
+31,Empatia,Dar e receber feedback,Gestão de prioridades,Ética profissional,
+32,Autonomia,Aprendizado contínuo,Adaptabilidade,Visão sistêmica,Gestão do tempo
+33,Pensamento crítico,Criatividade,Gestão de prioridades,Negociação,Dar e receber feedback
+34,Pensamento analítico,Gestão do tempo,Resiliência,,
+35,Dar e receber feedback,Foco em resultados,,,
+36,Empatia,Trabalho interdisciplinar,Pensamento analítico,Criatividade,Capacidade de liderança
+37,Autonomia,Adaptabilidade,Criatividade,,
+38,Capacidade de liderança,Curiosidade,Aprendizado contínuo,Empatia,
+39,Capacidade de liderança,Pensamento analítico,Autonomia,Gestão do tempo,Proatividade
+40,Responsabilidade,Gestão de prioridades,Negociação,Criatividade,Colaboração
+41,Proatividade,Empatia,Gestão de prioridades,,
+42,Capacidade de liderança,Empatia,Atenção aos detalhes,Inteligência emocional,Foco em resultados
+43,Colaboração,Dar e receber feedback,Foco em resultados,,
+44,Gestão de prioridades,Autonomia,Ética profissional,,
+45,Autonomia,Atenção aos detalhes,Criatividade,Trabalho interdisciplinar,Foco em resultados
+46,Pensamento analítico,Capacidade de liderança,Resolução de problemas,Visão sistêmica,Negociação
+47,Habilidades de comunicação,Negociação,Autonomia,Colaboração,
+48,Pensamento analítico,Negociação,Ética profissional,Colaboração,
+49,Pensamento crítico,Aprendizado contínuo,Empatia,,
+50,Trabalho interdisciplinar,Foco em resultados,Pensamento analítico,,
+51,Capacidade de liderança,Pensamento analítico,Adaptabilidade,Dar e receber feedback,
+52,Aprendizado contínuo,Habilidades de comunicação,Trabalho interdisciplinar,Resolução de problemas,
+53,Capacidade de liderança,Habilidades de comunicação,Trabalho interdisciplinar,,
+54,Trabalho interdisciplinar,Gestão de prioridades,Dar e receber feedback,,
+55,Trabalho interdisciplinar,Foco em resultados,,,
+56,Resiliência,Autonomia,,,
+57,Dar e receber feedback,Atenção aos detalhes,,,
+58,Dar e receber feedback,Resiliência,Criatividade,,
+59,Curiosidade,Capacidade de liderança,,,
+60,Visão sistêmica,Autonomia,Gestão do tempo,Empatia,Negociação
+61,Curiosidade,Pensamento crítico,,,
+62,Resolução de problemas,Empatia,Visão sistêmica,,
+63,Ética profissional,Pensamento analítico,Resolução de problemas,Autonomia,
+64,Autonomia,Negociação,Pensamento crítico,Trabalho interdisciplinar,Inteligência emocional
+65,Ética profissional,Atenção aos detalhes,Trabalho interdisciplinar,,
+66,Dar e receber feedback,Pensamento analítico,Habilidades de comunicação,Inteligência emocional,
+67,Criatividade,Visão sistêmica,Pensamento crítico,Empatia,
+68,Foco em resultados,Capacidade de liderança,Criatividade,Resiliência,
+69,Aprendizado contínuo,Inteligência emocional,,,
+70,Atenção aos detalhes,Dar e receber feedback,Resiliência,,
+71,Colaboração,Capacidade de liderança,,,
+72,Aprendizado contínuo,Curiosidade,Habilidades de comunicação,,
+73,Curiosidade,Negociação,Habilidades de comunicação,Adaptabilidade,Capacidade de liderança
+74,Empatia,Criatividade,,,
+75,Habilidades de comunicação,Dar e receber feedback,Inteligência emocional,Criatividade,Adaptabilidade
+76,Empatia,Resolução de problemas,,,
+77,Gestão de prioridades,Resolução de problemas,Foco em resultados,Capacidade de liderança,
+78,Colaboração,Empatia,Resolução de problemas,,
+79,Adaptabilidade,Capacidade de liderança,,,
+80,Capacidade de liderança,Resiliência,Dar e receber feedback,,

@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  banco_de_dados:
+    image: postgres:13
+    container_name: postgres_principal
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./init_db:/docker-entrypoint-initdb.d
+    environment:
+      
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=123456
+
+  pipeline_etl:
+    build: .
+    container_name: etl_pipeline_container
+    depends_on:
+      - banco_de_dados
+    volumes:
+      - .:/app
+    environment:
+     
+      - DB_HOST=banco_de_dados
+      - DB_USUARIO=postgres
+      - DB_SENHA=123456
+      - DB_NOME=postgres
+      - SCHEMA_ORIGEM=ProjetoDados25.1
+      - SCHEMA_DESTINO=projetoDados2025_v2
+      - CAMINHO_ARQUIVOS_CSV=/app/ArquivosExternos
+    
+    command: ["sh", "/app/scripts/run-etl.sh"]
+
+volumes:
+  pg_data:

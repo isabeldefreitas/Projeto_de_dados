@@ -1,0 +1,9 @@
+Id_Servico,Data_Servico,Descricao_Servico,Nome_Servico
+1,2025-06-23,Manutenção de sistema,Manutenção
+2,2025-06-23,Atualização de software,Atualização
+3,2025-06-25,Implantação de sistema,Implantação
+4,,Serviço inválido,Serviço Errado
+5,2024-12-01,Auditoria de segurança,Auditoria
+6,2024-10-12,Desenvolvimento de app mobile,Desenvolvimento
+7,2023-11-15,Treinamento de equipe,Treinamento
+8,2024-07-31,Consultoria TI,Consultoria

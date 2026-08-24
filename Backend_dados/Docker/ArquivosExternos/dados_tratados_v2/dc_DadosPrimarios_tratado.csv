@@ -1,0 +1,81 @@
+idColaborador,Nome,Email,CPF,Data de Nascimento,Telefone,Estado,Endereço,Telefone_status,Situacao_CPF,idCidade,idData_Admissao
+7,Vanessa Nogueira,vanessa.nogueira@exemplo.com,345.123.678-90,1992-09-05,+55 (21) 9876-1234,RJ,"Rua Mato Grosso, 192",Inválido: celular com tamanho incorreto,Válido,1,7
+8,Eduardo Araújo,edu.araújo@empresa.com,024.878.550-22,1980-07-30,+55 (11) 93220-4567,SP,"Rua Rio Branco, 831",Válido,Válido,2,8
+9,Mariana Silva,mariana@dominio.com.br,123.456.789-00,1999-06-15,+55 (19) 99765-3332,SP,"Rua Horizonte Azul, 779",Válido,Válido,3,9
+10,Rafael Costa,rafael.costa@email.com,789.654.321-00,1987-03-22,+55 (71) 91234-5678,BA,"Rua Cruzeiro do Sul, 162",Válido,Válido,4,10
+11,Thiago Moura,thiago@dominio.com,123.456.789-00,1990-01-12,+55 (21) 99999-0001,RJ,"Rua do Sol, 121",Válido,Válido,1,11
+12,Camila Andrade,camila.andrade@dominio.com,987.654.321-00,1993-03-01,+55 (11) 91234-5678,SP,"Rua Esperança, 999",Válido,Válido,3,12
+13,Bruno Oliveira,bruno@empresa.com,000.000.000-00,1985-07-30,+55 (31) 9999-8888,MG,"Rua Bela Vista, 648",Inválido: celular com tamanho incorreto,Inválido: todos os dígitos são iguais,5,13
+14,Ana Carolina,ana.carol@email.com,321.654.987-00,1994-02-14,+55 (71) 98877-6655,BA,"Rua Acre, 555",Válido,Válido,4,14
+15,Fernando Reis,fernando.reis@empresa.com.br,789.654.123-00,1987-09-05,+55 (85) 92345-6789,CE,"Rua Bela Vista, 658",Válido,Válido,6,15
+16,Isabela Monteiro,isabela.monteiro@gmail.com,741.852.963-00,1982-10-31,+55 (98) 99876-5432,MA,"Rua Dom Pedro I, 997",Válido,Válido,7,16
+17,Lucas Silva,lucas@lucas.com,111.222.333-44,1992-02-29,+55 (21) 98765-4321,RJ,"Rua Alvorada, 471",Válido,Válido,8,17
+18,Tatiane Ramos,tatiane@ramos.com.br,987.654.321-00,1989-05-12,+55 (47) 99123-4567,SC,"Rua da Saudade, 262",Válido,Válido,9,18
+19,Pedro Henrique,pedro@henrique.com,456.789.123-00,1980-06-15,+55 (51) 99234-5678,RS,"Rua do Sol, 696",Válido,Válido,10,19
+20,Juliana Duarte,juliana.duarte@dominio.com,159.357.456-00,1996-03-03,+55 (41) 91234-5678,PR,"Rua Dom Pedro I, 430",Válido,Válido,11,20
+21,Carlos Alberto,carlos.alberto@email.com,456.789.123-00,1984-08-15,+55 (65) 98765-4321,MT,"Rua Primavera, 447",Válido,Válido,12,21
+22,Daniela Braga,daniela@braga.com,147.258.369-00,1991-11-25,+55 (61) 99123-4567,DF,"Rua Tocantins, 703",Válido,Válido,13,22
+23,Renato Lima,renato@lima.com,852.963.741-00,1993-01-04,+55 (82) 99123-4567,AL,"Rua Pernambuco, 984",Válido,Válido,14,23
+24,Débora Costa,debora.costa@exemplo.com,369.258.147-00,1990-10-10,+55 (21) 99111-1222,RJ,"Rua da Saudade, 207",Válido,Válido,15,24
+25,Anderson Melo,anderson@melo.org,123.456.789-99,1989-01-01,+55 (21) 99888-7766,RJ,"Rua da Saudade, 788",Válido,Válido,8,25
+26,Beatriz Rocha,beatriz.rocha@webmail.com,741.852.963-10,1995-06-06,+55 (31) 99123-4567,MG,"Rua Amazonas, 342",Válido,Válido,5,26
+27,Hugo Martins,hugo.martins@email.com,369.258.147-01,1992-03-03,+55 (21) 9999-6666,RJ,"Rua Cruzeiro do Sul, 166",Inválido: celular com tamanho incorreto,Válido,1,27
+28,Renata Fonseca,renata.fonseca.com@dominio.com,111.222.333-44,2000-12-12,+55 (21) 99999-9999,RJ,"Rua Tocantins, 179",Válido,Válido,15,28
+29,Diego Souza,diego@empresa.org,000.000.000-00,1980-01-15,+55 (64) 9988-7766,GO,"Rua Sete de Setembro, 837",Inválido: celular com tamanho incorreto,Inválido: todos os dígitos são iguais,16,29
+30,Viviane Neves,viviane@neves.com.br,123.456.789-01,1996-09-09,+55 (85) 99123-4567,CE,"Rua São José, 291",Válido,Válido,6,30
+2,Elisa Da Conceição,Nao informado,478.021.963-96,2001-10-27,+55 (81) 9206-9804,RN,"Rua Esperança, 357",Inválido: DDD 81 não pertence ao estado RN e Inválido: celular com tamanho incorreto,Válido,17,2
+3,Ana Carolina Gomes,Nao informado,510.293.847-97,1985-10-12,+55 (84) 9812-3878,MA,"Rua Rio Branco, 321",Inválido: DDD 84 não pertence ao estado MA e Inválido: celular com tamanho incorreto,Válido,7,3
+4,Amanda Farias,Nao informado,598.721.604-49,1990-10-28,+55 (41) 8432-5621,RR,"Rua Horizonte Azul, 934",Inválido: DDD 41 não pertence ao estado RR e Inválido: fixo com dígito inicial incorreto,Válido,18,4
+5,Luiz Henrique Dias,isabellada-@dominio.com,457.918.620-67,1973-11-15,+55 (41) 8262-9251,TO,"Rua Amazonas, 255",Inválido: DDD 41 não pertence ao estado TO e Inválido: fixo com dígito inicial incorreto,Válido,19,5
+6,Guilherme Teixeira,Nao informado,841.105.860-60,1995-12-04,+55 (21) 99999-1234,RJ,"Rua Mato Grosso, 912",Válido,Válido,15,6
+31,Pedro Lima,pedro.lima@example.com,012.345.678-90,1992-11-04,+55 (21) 99451-2345,RJ,"Rua Cruzeiro do Sul, 403",Válido,Válido,15,31
+1,Ana Laura Correia,Nao informado,590.621.834-33,2006-11-19,+55 (11) 7033-5211,BA,"Rua Esperança, 207",Inválido: DDD 11 não pertence ao estado BA e Inválido: fixo com dígito inicial incorreto,Válido,4,1
+32,Carla Torres,carla_torres@dominio.com,123.456.789-10,1987-07-19,+55 (21) 98765-4321,RJ,"Rua Sete de Setembro, 957",Válido,Válido,8,32
+33,Marcelo Alves,marceloalves@email.net,987.654.321-00,1980-03-22,+55 (21) 91234-8765,RJ,"Rua Tocantins, 822",Válido,Válido,1,33
+34,Fernanda Reis,fernandareis@dominio.br,009.876.543-21,1995-11-30,+55 (21) 99887-7665,RJ,"Rua Tocantins, 560",Válido,Válido,1,34
+35,Rodrigo Melo,rodrigo.melo@empresa.org,345.678.901-23,1988-12-09,+55 (21) 96655-4433,RJ,"Rua da Paz, 706",Válido,Válido,15,35
+36,Aline Farias,aline.farias@webmail.com,456.789.012-34,1990-08-01,+55 (21) 91234-4566,RJ,"Rua Cruzeiro do Sul, 753",Válido,Válido,8,36
+37,Thiago Santos,thiago.santos@gmail.com,234.567.890-12,1993-02-15,+55 (21) 99988-7766,RJ,"Rua Alvorada, 490",Válido,Válido,8,37
+38,Marina Dias,marina.dias@dominio.com,123.456.789-01,1989-05-06,+55 (22) 99887-7445,RJ,"Rua Acre, 311",Válido,Válido,1,38
+39,Lucas Rocha,lucas.rocha@mail.com,321.654.987-00,1991-12-22,+55 (22) 91234-5678,RJ,"Rua Amazonas, 362",Válido,Válido,15,39
+40,Bianca Pinto,bianca.pinto@email.com,147.852.369-00,1994-11-09,+55 (22) 97654-3210,RJ,"Rua Dom Pedro I, 221",Válido,Válido,15,40
+41,Carlos Eduardo,carlos.eduardo@empresa.com,963.852.741-00,1987-09-05,+55 (22) 98765-4312,RJ,"Rua Alvorada, 977",Válido,Válido,8,41
+42,Patrícia Oliveira,patricia.oliveira@webmail.com,852.741.963-00,1990-07-07,+55 (22) 98765-4123,RJ,"Rua da Paz, 359",Válido,Válido,1,42
+43,Rafael Gomes,rafael.gomes@mail.com,741.852.963-00,1992-08-18,+55 (22) 91234-4332,RJ,"Rua Bela Vista, 606",Válido,Válido,15,43
+44,Juliana Matos,juliana.matos@dominio.com,369.258.147-00,1995-01-29,+55 (22) 98877-6655,RJ,"Rua da Paz, 200",Válido,Válido,15,44
+45,Eduardo Fernandes,eduardo.fernandes@email.com,258.963.147-00,1988-02-04,+55 (22) 99887-7554,RJ,"Rua Alvorada, 737",Válido,Válido,1,45
+46,Tatiane Costa,tatiane.costa@mail.com,147.963.258-00,1993-03-25,+55 (51) 91234-5567,RS,"Rua São José, 109",Válido,Válido,20,46
+47,Felipe Barbosa,felipe.barbosa@empresa.com,963.147.258-00,1991-11-14,+55 (51) 97654-3211,RS,"Rua Amazonas, 735",Válido,Válido,20,47
+48,Monica Ribeiro,monica.ribeiro@dominio.com,321.789.654-00,1994-12-30,+55 (51) 98765-4321,RS,"Rua Acre, 537",Válido,Válido,10,48
+49,André Moreira,andre.moreira@mail.com,654.987.321-00,1989-05-10,+55 (51) 91234-5678,RS,"Rua São José, 367",Válido,Válido,20,49
+50,Sabrina Alves,sabrina.alves@email.com,789.456.123-00,1992-06-17,+55 (51) 99887-7665,RS,"Rua Acre, 154",Válido,Válido,10,50
+51,Diego Santos,diego.santos@webmail.com,123.789.456-00,1987-08-20,+55 (51) 98765-4123,RS,"Rua Tocantins, 536",Válido,Válido,20,51
+52,Marina Souza,marina.souza@mail.com,456.123.789-00,1990-05-16,+55 (51) 91234-4555,RS,"Rua Mato Grosso, 189",Válido,Válido,10,52
+53,Gustavo Lima,gustavo.lima@empresa.com,987.321.654-00,1993-01-01,+55 (51) 99887-7443,RS,"Rua Cruzeiro do Sul, 457",Válido,Válido,20,53
+54,Vanessa Pereira,vanessa.pereira@dominio.com,321.456.987-00,1991-04-22,+55 (51) 98765-4333,RS,"Rua do Sol, 747",Válido,Válido,10,54
+55,Leonardo Rocha,leonardo.rocha@email.com,654.123.789-00,1988-08-09,+55 (24) 91234-5789,RJ,"Rua Dom Pedro I, 463",Válido,Válido,8,55
+56,Patricia Santos,patricia.santos@mail.com,789.123.456-00,1994-12-07,+55 (24) 99887-7776,RJ,"Rua Mato Grosso, 796",Válido,Válido,15,56
+57,Roberto Alves,roberto.alves@webmail.com,123.456.789-11,1992-03-27,+55 (24) 98765-4321,RJ,"Rua Dom Pedro I, 301",Válido,Válido,15,57
+58,Carolina Silva,carolina.silva@mail.com,456.789.123-11,1995-02-14,+55 (24) 91234-4333,RJ,"Rua Getúlio Vargas, 699",Válido,Válido,15,58
+59,Felipe Oliveira,felipe.oliveira@empresa.com,789.456.123-11,1989-06-30,+55 (24) 99887-7553,RJ,"Rua do Sol, 634",Válido,Válido,15,59
+60,Amanda Fernandes,amanda.fernandes@dominio.com,321.123.456-78,1993-10-19,+55 (11) 98765-4555,SP,"Rua Cruzeiro do Sul, 330",Inválido: DDD 11 não pertence ao estado nan,Válido,2,60
+61,Rafael Dias,rafael.dias@mail.com,654.987.321-11,1991-08-01,+55 (11) 91234-5432,SP,"Rua Primavera, 638",Válido,Válido,2,61
+62,Luciana Moreira,luciana.moreira@email.com,789.321.654-11,1994-11-23,+55 (11) 99887-7665,SP,"Rua Independência, 438",Válido,Válido,21,62
+63,Bruno Almeida,bruno.almeida@mail.com,123.789.654-11,1988-05-17,+55 (11) 98765-4123,SP,"Rua Cruzeiro do Sul, 920",Válido,Válido,21,63
+64,Patricia Costa,patricia.costa@empresa.com,456.321.789-11,1992-09-09,+55 (11) 91234-4456,SP,"Rua Tocantins, 886",Válido,Válido,21,64
+65,Diego Martins,diego.martins@dominio.com,789.654.123-11,1990-08-29,+55 (11) 99887-7777,SP,"Rua Cruzeiro do Sul, 657",Válido,Válido,3,65
+66,Isabela Ferreira,isabela.ferreira@mail.com,321.987.654-11,1993-05-12,+55 (11) 98765-4321,SP,"Rua Bela Vista, 994",Válido,Válido,3,66
+67,Carlos Sousa,carlos.sousa@email.com,654.123.987-11,1991-02-21,+55 (11) 91234-5678,SP,"Rua Horizonte Azul, 423",Válido,Válido,3,67
+68,Aline Rocha,aline.rocha@mail.com,789.321.123-11,1994-04-15,+55 (11) 99887-7554,SP,"Rua Alvorada, 519",Válido,Válido,21,68
+69,Thiago Carvalho,thiago.carvalho@empresa.com,123.456.987-11,1987-04-07,+55 (11) 98765-4432,SP,"Rua Dom Pedro I, 399",Válido,Válido,3,69
+70,Renata Mendes,renata.mendes@dominio.com,456.789.123-12,1992-12-03,+55 (85) 91234-4333,RJ,"Rua Esperança, 713",Válido,Válido,1,70
+71,Paulo Gomes,paulo.gomes@mail.com,789.654.321-12,1990-11-30,+55 (85) 99887-7666,RJ,"Rua Getúlio Vargas, 826",Válido,Válido,1,71
+72,Juliana Souza,juliana.souza@email.com,321.123.789-12,1993-08-21,+55 (85) 98765-4123,RJ,"Rua Dom Pedro I, 516",Válido,Válido,15,72
+73,Lucas Santos,lucas.santos@mail.com,654.987.123-12,1988-09-12,+55 (85) 91234-4555,RJ,"Rua Alvorada, 994",Válido,Válido,15,73
+74,Amanda Oliveira,amanda.oliveira@empresa.com,789.321.456-12,1991-01-16,+55 (85) 99887-7443,RJ,"Rua do Sol, 427",Válido,Válido,1,74
+75,Felipe Ribeiro,felipe.ribeiro@dominio.com,123.789.321-12,1994-06-30,+55 (41) 98765-4333,RJ,"Rua Tocantins, 784",Válido,Válido,8,75
+76,Carla Martins,carla.martins@mail.com,456.123.987-12,1992-05-05,+55 (41) 91234-5789,RJ,"Rua Bela Vista, 718",Válido,Válido,15,76
+77,Roberto Dias,roberto.dias@email.com,789.456.789-12,1989-07-22,+55 (41) 99887-7776,RJ,"Rua Alvorada, 163",Válido,Válido,15,77
+78,Larissa Costa,larissa.costa@mail.com,321.987.123-12,1993-03-15,+55 (41) 98765-4321,RJ,"Rua Bela Vista, 540",Válido,Válido,15,78
+79,Ricardo Almeida,ricardo.almeida@empresa.com,654.123.456-12,1990-09-09,+55 (41) 91234-4333,RJ,"Rua Bela Vista, 859",Válido,Válido,15,77
+80,Patrícia Souza,patricia.souza@dominio.com,789.321.789-12,1991-11-10,+55 (41) 99887-7553,RJ,"Rua Pernambuco, 561",Válido,Válido,15,78

@@ -1,0 +1,12 @@
+Id_Empresa,Cnpj_Empresa,Contato_Empresa,Nome_Empresa,Setor_Empresa,Logradouro,Numero,Estado,Status_Telefone,Status_Cnpj
+1,11.658.674/1098-570,+55 (21) 98765-4321, Alfa,TI,Rua das Flores,123,RJ,Válido,Inválido: tamanho incorreto
+2,21.652.281/4831-33,+55 (11) 98765-4321, Beta,TI,Av. Brasil,456,SP,Válido,Válido
+3,68.653.207/8626-34,+55 (31) 99998-8877, Gama,Tecnologia,Praça Central,789,MG,Válido,Válido
+4,34.123.456/0001-99,+55 (27) 98765-4321,Tech Soluções,Tecnologia,Av. das Américas,1000,RJ,Inválido: DDD 27 não pertence ao estado RJ,Válido
+5,10.293.847/5601-23,+55 (11) 33344-5566,Inova Sistemas,TI,Rua XV de Novembro,456,SP,Inválido: celular sem 9 inicial,Válido
+6,45.678.901/0001-12,+55 (31) 91234-5678,Data Insights,Análise de Dados,Rua da Bahia,300,MG,Válido,Válido
+7,98.765.432/1000-12,+55 (21) 98877-6655,Global Soft,TI,Rua São Paulo,777,RJ,Válido,Válido
+8,12.345.678/0001-90,+55 (11) 33224-4556,NextGen Tech,Tecnologia,Av. Paulista,1500,SP,Inválido: celular sem 9 inicial,Válido
+9,56.789.012/3456-78,+55 (51) 99988-7766,RS Sistemas,TI,Rua das Flores,99,RS,Válido,Válido
+10,23.456.789/0001-11,+55 (41) 32211-4455,SC Tecnologia,TI,Rua XV,123,SC,Inválido: DDD 41 não pertence ao estado SC e Inválido: celular sem 9 inicial,Válido
+11,12.345.678/0001-55,+55 (24) 2237-3668,T2M,TI,Rua Afrânio Melo Franco,333,RJ,Válido,Válido
