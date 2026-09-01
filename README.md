@@ -123,13 +123,6 @@ Entre os principais tratamentos realizados estão:
 * Separação de dados em tabelas fato e dimensão;
 * Correção de relacionamentos;
 * Criação de chaves para integração entre tabelas.
-
-Os dados tratados são armazenados no schema:
-
-```text
-projetoDados2025_v2
-```
-
 ---
 
 ### 🥇 Camada Ouro
@@ -455,7 +448,7 @@ Opcionalmente:
 ## 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone [<URL_DO_REPOSITORIO>](https://github.com/isabeldefreitas/Projeto_de_dados)
 ```
 
 Entre na pasta do projeto:
@@ -466,28 +459,8 @@ cd <NOME_DO_REPOSITORIO>
 
 ---
 
-## 2. Configure as variáveis de ambiente
 
-Crie um arquivo `.env` com as configurações necessárias para o banco de dados e para o pipeline ETL.
-
-Exemplo:
-
-```env
-POSTGRES_HOST=postgres
-POSTGRES_PORT=5432
-POSTGRES_DB=postgres
-POSTGRES_USER=postgres
-POSTGRES_PASSWORD=sua_senha
-
-SOURCE_SCHEMA=ProjetoDados25.1
-TARGET_SCHEMA=projetoDados2025_v2
-```
-
-> Os nomes das variáveis devem ser ajustados de acordo com a configuração real do projeto.
-
----
-
-## 3. Execute os containers
+## 2. Execute os containers
 
 ```bash
 docker compose up --build
@@ -505,7 +478,7 @@ O Docker irá iniciar:
 Após a execução do pipeline, os dados tratados estarão disponíveis no schema:
 
 ```text
-projetoDados2025_v2
+dados_tratados_v2
 ```
 
 Esses dados podem ser acessados utilizando ferramentas como:
@@ -584,9 +557,6 @@ Responsável pelo:
 * Medidas DAX;
 * Visualização dos dados.
 
-```text
-Dados_2025_1_T2M_Projeto-Sabia_FrontEnd
-```
 
 ---
 
